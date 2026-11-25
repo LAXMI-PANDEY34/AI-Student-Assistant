@@ -1,0 +1,5 @@
+===== MY STUDY TIMETABLE =====
+
+Subject: c
+Start Time: 5
+Duration: 6 hours

@@ -1,0 +1,11 @@
+===== STUDENT REPORT =====
+Name: Laxmi Pandey
+c++: 60
+python: 50
+htmt: 90
+css: 85
+c language: 96
+Total Marks: 381/500
+Percentage: 76.2%
+Grade: B
+Result: Pass
